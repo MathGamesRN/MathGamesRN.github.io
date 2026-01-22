@@ -46,31 +46,18 @@ if __name__ == "__main__":
         game_name += '.html'
     
     # HTML Template
-    html_template = """<!DOCTYPE html>
+    html_template = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Game</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
-        }
-        .container {
-            text-align: center;
-        }
-    </style>
+    <title>{game_name}</title>
+    <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
     <div class="container">
-        <h1>Game</h1>
-        <!-- Add your game content here -->
+        <h1>{game_name}</h1>
+        <iframe src="../iframes/{folder_id}/index.html" width="800" height="600" frameborder="0" allowfullscreen></iframe>
     </div>
 </body>
 </html>"""
