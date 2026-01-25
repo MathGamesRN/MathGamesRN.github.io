@@ -1,0 +1,10 @@
+{
+  "game_1": {
+    "name": "minecraft",
+    "folder_id": "game_1"
+  },
+  "game_2": {
+    "name": "2048",
+    "folder_id": "game_2"
+  }
+}
