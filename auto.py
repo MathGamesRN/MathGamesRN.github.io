@@ -164,7 +164,7 @@ if __name__ == "__main__":
     </header>
     <div class="container">
         <h1>{display_name}</h1>
-        <iframe src="../iframes/{folder_id}/index.html" width="800" height="600" frameborder="0" allowfullscreen></iframe>
+        <iframe src="../iframes/{folder_id}/index.html" width="800" height="600" frameborder="0" id="iframe" allowfullscreen></iframe>
     </div>
 </body>
 </html>"""

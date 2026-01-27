@@ -77,4 +77,30 @@ header img {
     text-align: center;
     margin-top: 30px;
 }
+.Iframe_workaround {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+}
+input{
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px 3px;
+
+}
+textarea{
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px 3px;
+    margin-bottom: -10px;
+    
+}
 
