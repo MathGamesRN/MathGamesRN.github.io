@@ -163,6 +163,7 @@ if __name__ == "__main__":
         <a href="/"><img src="../logo.png" alt="MathGamesRN Logo" width="150"/></a>
     </header>
     <div class="container">
+    <button onclick="window.location.href='../iframes/{folder_id}/index.html'" class="FullScreen">Fullscreen/New tab</button>
         <h1>{display_name}</h1>
         <iframe src="../iframes/{folder_id}/index.html" width="800" height="600" frameborder="0" id="iframe" allowfullscreen></iframe>
     </div>

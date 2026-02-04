@@ -6,5 +6,9 @@
   "game_2": {
     "name": "2048",
     "folder_id": "game_2"
+  },
+  "game_3": {
+    "name": "Geometry Dash(remake)",
+    "folder_id": "game_3"
   }
 }
