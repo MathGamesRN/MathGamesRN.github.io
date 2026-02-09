@@ -113,7 +113,7 @@ def add_game_link_to_index(filename, display_name):
     game_link = filename.replace('.html', '')
     
     # Create the game link HTML
-    game_link_html = f'        <div class="{display_name}"><a href="/games/{filename}"><img src="/icons/{display_name}.png" width=200 height=200 class="icon" alt="{display_name}"><span class="popup_text">Play {display_name} today!</span></a></div>\n'
+    game_link_html = f'        <div class="{display_name}"><a href="/games/{filename}"><img src="/icons/{display_name}.png" width=200 height=200 class="icon" alt="{display_name}"><p class="popup_text">Play {display_name} today!</p></a></div>\n'
     
     # Check if the link already exists to avoid duplicates
     if f'href="/games/{filename}"' in content:

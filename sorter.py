@@ -12,7 +12,7 @@ def sort_games_in_index():
     
     # Find all game divs within the games container
     # Pattern to match: <div class="gamename"><a href="...">...</a></div>
-    game_pattern = r'        <div class="[^"]+"><a href="/games/[^"]+"><img src="/icons/[^"]+\.png"[^>]*><span class="popup_text">[^<]+</span></a></div>'
+    game_pattern = r'        <div class="[^"]+"><a href="/games/[^"]+"><img src="/icons/[^"]+\.png"[^>]*><p class="popup_text">[^<]+</p></a></div>'
     
     games = re.findall(game_pattern, content)
     
