@@ -108,4 +108,15 @@ textarea{
     margin-bottom: -10px;
     
 }
+.home{
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+    bottom: 30px;
+    padding: 10px;
+}
 
