@@ -52,7 +52,6 @@
 - [Fear and Hunger 2](https://github.com/web-ports/fear-and-hunger-2) - port by [bread](https://github.com/genizy)
 - [Fears to Fathom: Home Alone](https://github.com/slqntdevss/FTFHAPort) - Ported by [slqnt](https://github.com/slqntdevss)
 - [fish](https://github.com/web-ports/fish) - port by [bread](https://github.com/genizy)
-- [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Candy's 1](https://github.com/web-ports/fnac/tree/main/1) - Ported by [breadbb](https://gn-math.dev)
 - [Five Nights at Candy's 2](https://github.com/web-ports/fnac/tree/main/2) - Ported by [breadbb](https://github.com/genizy)
 - [Five Nighs at Epstein's](https://github.com/web-ports/fnae) - port by @q8j.__ on discord, fixed by [bread](https://github.com/genizy)
