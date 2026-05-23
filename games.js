@@ -433,13 +433,6 @@ description: "By: bread",
 thumbnail: "/thumbs/70.png",
 url: "/games/70/1/index.html",
   },
-    {
-id: 70,
-title: "Kindergarten 2",
-description: "By: bread",
-thumbnail: "/thumbs/70.png",
-url: "/games/70/2/index.html",
-  },
   {
 id: 71,
 title: "Kindergarten 3",
