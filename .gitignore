@@ -1,14 +1,4 @@
 __pycache__/
 .vscode/
-games/*
-!games/15
-!games/16
-!games/17
-!games/18
-!games/19
-!games/20
-!games/21
-!games/22
-!games/23
-!games/24
-!games/25
+games
+.venv
