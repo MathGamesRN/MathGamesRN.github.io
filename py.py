@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+
 game_manager.py — Download GitHub repos/subfolders, and manage a games JS registry.
 
 ─── Subcommands ────────────────────────────────────────────────────────────────
